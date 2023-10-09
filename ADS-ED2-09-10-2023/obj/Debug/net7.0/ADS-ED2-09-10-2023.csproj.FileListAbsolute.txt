@@ -1,0 +1,15 @@
+C:\Users\gabri\OneDrive\Área de Trabalho\IFSP\C#\ADS-ED2-09-10-2023\ADS-ED2-09-10-2023\bin\Debug\net7.0\ADS-ED2-09-10-2023.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\IFSP\C#\ADS-ED2-09-10-2023\ADS-ED2-09-10-2023\bin\Debug\net7.0\ADS-ED2-09-10-2023.deps.json
+C:\Users\gabri\OneDrive\Área de Trabalho\IFSP\C#\ADS-ED2-09-10-2023\ADS-ED2-09-10-2023\bin\Debug\net7.0\ADS-ED2-09-10-2023.runtimeconfig.json
+C:\Users\gabri\OneDrive\Área de Trabalho\IFSP\C#\ADS-ED2-09-10-2023\ADS-ED2-09-10-2023\bin\Debug\net7.0\ADS-ED2-09-10-2023.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\IFSP\C#\ADS-ED2-09-10-2023\ADS-ED2-09-10-2023\bin\Debug\net7.0\ADS-ED2-09-10-2023.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\IFSP\C#\ADS-ED2-09-10-2023\ADS-ED2-09-10-2023\obj\Debug\net7.0\ADS-ED2-09-10-2023.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\IFSP\C#\ADS-ED2-09-10-2023\ADS-ED2-09-10-2023\obj\Debug\net7.0\ADS-ED2-09-10-2023.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Área de Trabalho\IFSP\C#\ADS-ED2-09-10-2023\ADS-ED2-09-10-2023\obj\Debug\net7.0\ADS-ED2-09-10-2023.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\IFSP\C#\ADS-ED2-09-10-2023\ADS-ED2-09-10-2023\obj\Debug\net7.0\ADS-ED2-09-10-2023.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Área de Trabalho\IFSP\C#\ADS-ED2-09-10-2023\ADS-ED2-09-10-2023\obj\Debug\net7.0\ADS-ED2-09-10-2023.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\IFSP\C#\ADS-ED2-09-10-2023\ADS-ED2-09-10-2023\obj\Debug\net7.0\ADS-ED2-09-10-2023.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\IFSP\C#\ADS-ED2-09-10-2023\ADS-ED2-09-10-2023\obj\Debug\net7.0\refint\ADS-ED2-09-10-2023.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\IFSP\C#\ADS-ED2-09-10-2023\ADS-ED2-09-10-2023\obj\Debug\net7.0\ADS-ED2-09-10-2023.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\IFSP\C#\ADS-ED2-09-10-2023\ADS-ED2-09-10-2023\obj\Debug\net7.0\ADS-ED2-09-10-2023.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\IFSP\C#\ADS-ED2-09-10-2023\ADS-ED2-09-10-2023\obj\Debug\net7.0\ref\ADS-ED2-09-10-2023.dll
